@@ -15,7 +15,7 @@
 ---
 
 ## 🔭 **What I'm Working On**
-- 🚀 [**Servicyee**](https://frontend-servicyee.vercel.app/) – Next.js + Supabase service marketplace with AI-powered modules
+- 🚀 [**Servicyee**](https://frontend-servicyee.vercel.app/) – Next.js Marketplace
 - 🛠 Building **microservices** in Node.js & PostgreSQL for real-time data processing
 - ☁ Automating deployments with **AWS Lambda**, **Vercel**, and **CI/CD pipelines**
 
