@@ -45,14 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaqat-paindah&layout=compact&theme=blue_navy&hide_border=true" />
 </p>
 
----
 
-## 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liaqat-paindah&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📈 **Activity Graph**
 <p align="center">
